@@ -1,13 +1,17 @@
 # Hyggshi OS Developer
 
-![Hyggshi OS](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/blob/main/logo.png)
+![Hyggshi OS](logo.png)
 
-Hyggshi OS Developer is a mini operating system development project based on Roblox Studio. The goal is to provide unique interface and functions for users.
+[![GitHub All Releases](https://img.shields.io/github/downloads/HyggshiOSDeveloper/Hyggshi-OS-project-center/total.svg)](https://github.com/HyggshiOSDeveloper/Hyggshi-OS-project-center/releases)
+
+
+Hyggshi OS Developer là một dự án phát triển hệ điều hành mini dựa trên Roblox Studio. Mục tiêu là cung cấp giao diện và chức năng độc đáo cho người dùng.
 
 ## Features
-- Beautiful interface.
-- Zashi Messaging feature.
-- Integrated screen timeout feature.
+- Giao diện đẹp mắt.
+- Tính năng Zashi Messaging.
+- Tích hợp tính năng timeout màn hình.
+
 
 ## Installation
 1. Clone repository này:
