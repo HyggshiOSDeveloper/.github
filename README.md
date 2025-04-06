@@ -1,4 +1,4 @@
-# Nhà phát triển hệ điều hành Hyggshi
+# Hyggshi OS Developer
 
 ![Hyggshi OS](logo.png)
 
