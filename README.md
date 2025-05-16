@@ -1,5 +1,5 @@
 
-> ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
+> ⚠️ *Lưu ý: GitHub cho biết dự án này được viết 98,8% bằng Luau, nhưng đó chỉ là một sự lừa dối nhỏ. Đừng tin mọi thứ bạn thấy trong thanh màu xanh lá cây!*
 
 # Hyggshi OS Developer
 
