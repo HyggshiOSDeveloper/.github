@@ -1,3 +1,6 @@
+
+> ⚠️ *Note: GitHub says this project is 98.8% written in Luau, but that's a slight deception. Don't believe everything you see in the green bar!*
+
 # Hyggshi OS Developer
 
 ![Hyggshi OS](logo.png)
